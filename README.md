@@ -1,4 +1,4 @@
-# Sorry, Typeform I/O will be deprecated soon. Please visit https://developer.typeform.com/ to discover our new developer products
+# Sorry, Typeform I/O is deprecated. Please visit https://developer.typeform.com/ to discover our new developer products
 
 
 # Projects using Typeform I/O
